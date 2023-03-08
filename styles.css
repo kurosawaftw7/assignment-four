@@ -1,0 +1,30 @@
+<style>
+            h1 {
+                background-color: aquamarine;
+                color: white;
+            }
+
+            h2 {
+                background-color: aquamarine;
+                color: white;
+            }
+
+            .body1 {
+                float: left;
+                position: static;
+                padding-left: 3rem;
+                padding-right: 3rem;
+            }
+
+            aside {
+                float: right;
+                position: static;
+                width: 50%;
+                padding-left: 5rem;
+                padding-right: 5rem;
+            }
+
+            footer {
+                float: bottom;
+                position: static;
+            }
