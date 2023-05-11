@@ -15,6 +15,11 @@
                 padding-bottom: 4rem;
             }
 
+            .sr-only {
+                position: relative;
+                left: -10000px
+            }
+
             nav {
                 background-color: rgb(206, 206, 206);
                 font-size: 1.5rem;
@@ -25,6 +30,10 @@
                 padding-bottom: 2rem;
                 display: flex;
                 flex-direction: row;
+            }
+
+            a:hover {
+                color:red;
             }
 
             main {
